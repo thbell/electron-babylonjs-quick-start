@@ -1,6 +1,6 @@
-# electron-quick-start
+# electron-babylonjs-quick-start
 
-**Clone and run for a quick way to see Electron in action.**
+**Clone and run for a quick way to see Electron and BabylonJS in action.**
 
 This is a minimal Electron and BabylonJS application based on the [Quick Start Guide](http://electron.atom.io/docs/tutorial/quick-start) within the Electron documentation, and the [BabylonJS Quick Start Documentation](http://doc.babylonjs.com/).
 

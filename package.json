@@ -1,22 +1,26 @@
 {
-  "name": "electron-quick-start",
+  "name": "electron-babylonjs-quick-start",
   "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "description": "A minimal Electron and BabylonJS application",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
-  "repository": "https://github.com/electron/electron-quick-start",
+  "repository": "https://github.com/thbell/electron-babylonjs-quick-start",
   "keywords": [
     "Electron",
+    "BabylonJS",
     "quick",
     "start",
     "tutorial",
     "demo"
   ],
-  "author": "GitHub",
+  "author": "tebell",
   "license": "CC0-1.0",
   "devDependencies": {
     "electron": "~1.6.2"
+  },
+  "dependencies": {
+    "babylonjs": "^3.0.0-alpha"
   }
 }
